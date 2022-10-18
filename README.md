@@ -7,17 +7,19 @@ Modify a starter code in javascript to generate password.
 
 ## Link
 
-<https://kenjib32.github.io/Portfolio-Week-2-Challenge/>
+<https://kenjib32.github.io/Password-Week-3-Challenge/>
 
 ## Screenshot
 
-![Functional Password Generator Screenshots](/Develop/images/pw-gen-01.png)
+![Functional Password Generator Screenshots](/Assets/images/image1.png)
 
-![Character Length Question](/Develop/images/pw-gen-02.png)
+![Character Length Question](/Assets/images/image2.png)
 
-![Lowercase Letters Confirmation](/Develop/images/pw-gen-03.png)
+![Lowercase Letters Confirmation](/Assets/images/image3.png)
 
-![Verification of Selection](/Develop/images/pw-gen-04.png)
+![Verification of Selection](/Assets/images/image4.png)
+
+![Password Generated](/Assets/images/image5.png)
 
 ## Changes Made
 
@@ -34,4 +36,4 @@ Modify a starter code in javascript to generate password.
 
 ## Repository
 
-<https://kenjib32.github.io/Password-Week-3-Challenge/>
+<https://github.com/Kenjib32/Password-Week-3-Challenge>
