@@ -13,11 +13,11 @@ Modify a starter code in javascript to generate password.
 
 ![Functional Password Generator Screenshots](/Develop/images/pw-gen-01.png)
 
-![Character Length Question](/Develop/assets/images/pw-gen-02.png)
+![Character Length Question](/Develop/images/pw-gen-02.png)
 
-![Lowercase-letters-confirmation](/Develop/assets/images/pw-gen-03.png)
+![Lowercase Letters Confirmation](/Develop/images/pw-gen-03.png)
 
-![Verification-of-selection](/Develop/assets/images/pw-gen-04.png)
+![Verification of Selection](/Develop/images/pw-gen-04.png)
 
 ## Changes Made
 
